@@ -2,8 +2,9 @@
 This is a simple banking system code that allows users to create bank accounts, make deposits, withdrawals, check balances, and view transaction history. Here's a breakdown of how the code works:
 
 The program defines two classes: 
+1)Transaction 
 
-Transaction and BankAccount.
+2)BankAccount.
 
 Transaction represents a transaction with properties like amount and type.
 
